@@ -1,2 +1,4 @@
-# mtm6302-color-picker-final
-This repository contains the final version of the color picker project. 
+# Color Picker
+
+## Objective
+Create an interactive color picker using event delegation and local storage.  
